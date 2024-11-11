@@ -1,0 +1,6 @@
+[submodule "M324-14-submodule-backend"]
+	path = M324-14-submodule-backend
+	url = https://github.com/Leaali/M324-14-submodule-backend.git
+[submodule "M324-14-submodule-frontend"]
+	path = M324-14-submodule-frontend
+	url = https://github.com/Leaali/M324-14-submodule-frontend.git
